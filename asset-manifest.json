@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cosmic-portfolio/static/css/main.73a0f216.css",
+    "main.js": "/cosmic-portfolio/static/js/main.734c5115.js",
+    "static/js/453.67f3880a.chunk.js": "/cosmic-portfolio/static/js/453.67f3880a.chunk.js",
+    "index.html": "/cosmic-portfolio/index.html",
+    "main.73a0f216.css.map": "/cosmic-portfolio/static/css/main.73a0f216.css.map",
+    "main.734c5115.js.map": "/cosmic-portfolio/static/js/main.734c5115.js.map",
+    "453.67f3880a.chunk.js.map": "/cosmic-portfolio/static/js/453.67f3880a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73a0f216.css",
+    "static/js/main.734c5115.js"
+  ]
+}
